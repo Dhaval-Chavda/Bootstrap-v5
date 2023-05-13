@@ -1,0 +1,9 @@
+{
+    "gitlens.codeLens.enabled": true,
+    "githubIssues.issueCompletions.enabled": true,
+    "githubIssues.userCompletions.enabled": true,
+    "git.enabled": true,
+    "git.allowForcePush": true,
+    "gitlens.views.experimental.multiSelect.enabled": true,
+    "gitlens.graph.experimental.minimap.enabled": false
+}
